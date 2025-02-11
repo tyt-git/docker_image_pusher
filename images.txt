@@ -1,4 +1,3 @@
-redis
-ragflow
 es01
 mysql
+ragflow
