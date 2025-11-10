@@ -1,1 +1,1 @@
-docker.io/xprobe_xinference/xinference:latest
+xprobe_xinference/xinference:latest
