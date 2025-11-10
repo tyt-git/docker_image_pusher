@@ -1,1 +1,1 @@
-pull registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest
+registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest
